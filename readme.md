@@ -1,0 +1,3 @@
+- Array is the contigeous memory location and access through indexes
+- it is type of similar list or data
+- we need array beacause we can store multiple values in a single variable
